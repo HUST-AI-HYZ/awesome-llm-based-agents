@@ -1,2 +1,4 @@
 # Awesome-Agent-Memory
-Record of  papers in Agent Memory
+A curated list for Memory Mechanism in LLM based Agents
+
+
