@@ -1,4 +1,4 @@
-# Awesome-LLM-Agents
+# Awesome-LLM-Based-Agents
 A curated list for Memory Mechanism in LLM based Agents
 
 Effective memory management is crucial for an LLM agent to accomplish long and multi-step objectives. This list provides a curated collection of recent papers focusing on memory mechanisms in LLM-based agents, categorized and ordered by publication date.
